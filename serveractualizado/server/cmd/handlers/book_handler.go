@@ -3,8 +3,8 @@ package handlers
 import (
 	"encoding/json"
 	"net/http"
-	"server/cmd/models"
-	"server/cmd/repositories"
+	"serveractualizado/server/cmd/models"
+	"serveractualizado/server/cmd/repositories"
 	"strconv"
 	"strings"
 )

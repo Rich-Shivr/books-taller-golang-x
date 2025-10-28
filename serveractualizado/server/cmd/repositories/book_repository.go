@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"server/cmd/models"
+	"serveractualizado/server/cmd/models"
 )
 
 type BookRepository interface {

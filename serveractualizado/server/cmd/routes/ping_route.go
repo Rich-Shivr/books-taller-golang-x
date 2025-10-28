@@ -2,7 +2,7 @@ package routes
 
 import (
 	"net/http"
-	"server/cmd/handlers"
+	"serveractualizado/server/cmd/handlers"
 )
 
 func SetupPingRoute() {
